@@ -1,0 +1,21 @@
+
+Conversion 8.0 => 8.1
+ Starting new Transition.audit
+ Will create new full IDFs
+ Will create new IDF lines with units where applicable
+ Will create new IDF lines leaving blank incoming fields as blank (no default fill)
+ Processing IDF -- D:\Software\IDFGraph\ep\short.idf
+
+Conversion 8.1 => 8.2
+ Starting new Transition.audit
+ Will create new full IDFs
+ Will create new IDF lines with units where applicable
+ Will create new IDF lines leaving blank incoming fields as blank (no default fill)
+ Processing IDF -- D:\Software\IDFGraph\ep\short.idf
+
+Conversion 8.2 => 8.3
+ Starting new Transition.audit
+ Will create new full IDFs
+ Will create new IDF lines with units where applicable
+ Will create new IDF lines leaving blank incoming fields as blank (no default fill)
+ Processing IDF -- D:\Software\IDFGraph\ep\short.idf
